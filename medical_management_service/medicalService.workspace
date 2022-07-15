@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="UOC20212" Database="" Version="10000">
+  <Project Name="medicalSystemManager" Path="UOC20212.project" Active="Yes"/>
+  <Project Name="vaccineService" Path="UOCVaccine/UOCVaccine.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="medicalSystemManager" ConfigName="Debug"/>
+      <Project Name="vaccineService" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="no">
+      <Environment/>
+      <Project Name="medicalSystemManager" ConfigName="Release"/>
+      <Project Name="vaccineService" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

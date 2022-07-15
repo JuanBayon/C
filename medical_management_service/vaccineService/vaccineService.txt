@@ -1,0 +1,1 @@
+../lib/src_center.c.o ../lib/src_date.c.o ../lib/src_person.c.o ../lib/src_vaccine.c.o ../lib/src_appointment.c.o ../lib/src_stock.c.o ../lib/src_csv.c.o ../lib/src_api.c.o
